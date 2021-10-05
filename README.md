@@ -1,1 +1,1 @@
-# End-to-end-RNN-Model-for-Named-Entity-Recognition
+# End to end RNN Model for Named Entity Recognition
