@@ -9,6 +9,7 @@ setup(
     license='MIT License',
     url='https://github.com/caciolai/End-to-end-RNN-Model-for-Named-Entity-Recognition',
     packages=find_packages(where="src"),
+    python_requires='>3.7.9',
     install_requires=[
         'torch',
         'jsonpickle',
