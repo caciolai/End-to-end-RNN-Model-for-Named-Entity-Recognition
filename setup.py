@@ -11,7 +11,6 @@ setup(
     packages=find_packages(where="src"),
     python_requires='>3.7.9',
     install_requires=[
-        'torch',
         'jsonpickle',
         'matplotlib',
         'nltk',
