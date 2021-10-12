@@ -4,8 +4,8 @@ This project implements a *BiLSTM*-based model to capture token-tag features fro
 
 ### Implementation
 
-[Here](code.ipynb) is a copy of the Colab notebook in which I implemented my model and carried out its training.
+[Here](notebooks/training.ipynb) is a copy of the Colab notebook in which I trained and evaluated the model.
 
 ### Report
 
-[Here](report.pdf) is the report with the documentation of my model and the results it attains.
+[Here](reports/report.pdf) is the report with the documentation of my model and the results it attains.
