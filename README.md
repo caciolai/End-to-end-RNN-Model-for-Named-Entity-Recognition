@@ -11,8 +11,10 @@ This project implements a *BiLSTM*-based model to capture token-tag features fro
 [Here](reports/report.pdf) is the report with the documentation of my model and the results it attains.
 
 ## Resources used
+- [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb?hl=it)
 - [PyTorch](https://pytorch.org/get-started/locally/)
 - [NLTK](https://www.nltk.org/)
+- [FastText](https://fasttext.cc/)
 
 ## Authors
 
