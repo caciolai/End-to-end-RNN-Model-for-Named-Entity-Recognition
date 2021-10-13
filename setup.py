@@ -8,8 +8,9 @@ setup(
     author='caciolai',
     license='MIT License',
     url='https://github.com/caciolai/End-to-end-RNN-Model-for-Named-Entity-Recognition',
-    packages=find_packages(where="src"),
-    python_requires='>3.7.9',
+    packages=find_packages("src"),  # include all packages under src
+    package_dir={"": "src"},   # tell distutils packages are under src
+    python_requires='>=3.7.9',
     install_requires=[
         'jsonpickle',
         'matplotlib',
